@@ -5,3 +5,4 @@ We will learn python from basics to advanced topics bit by bit (serially) <br>
 03_rules_variables <br>
 04_operators <br>
 05_type <br>
+06_input <br>
