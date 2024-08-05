@@ -1,0 +1,2 @@
+#string (str)
+a = "Murtuja" 
