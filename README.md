@@ -7,3 +7,4 @@ We will learn python from basics to advanced topics bit by bit (serially) <br>
 05_type <br>
 06_input <br>
 07_strings <br>
+08_str_functions <br>
